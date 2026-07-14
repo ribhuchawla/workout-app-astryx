@@ -1,0 +1,119 @@
+@import '@astryxdesign/core/reset.css';
+@import '@astryxdesign/core/astryx.css';
+@import '@astryxdesign/theme-neutral/theme.css';
+
+:root {
+  color-scheme: light dark;
+  --fitness-bg: light-dark(oklch(0.985 0.004 145), oklch(0.13 0.004 145));
+  --fitness-ink-muted: light-dark(oklch(0.42 0.006 145), oklch(0.72 0.006 145));
+  --fitness-line: light-dark(oklch(0.9 0.004 145), oklch(0.28 0.006 145));
+  background: var(--fitness-bg);
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--fitness-bg);
+}
+
+.appFrame {
+  width: min(100%, 760px);
+  margin: 0 auto;
+  padding: 16px 16px 40px;
+}
+
+.dateStrip {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  scrollbar-width: none;
+}
+
+.dateStrip::-webkit-scrollbar {
+  display: none;
+}
+
+.readinessGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.order {
+  display: inline-flex;
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  border: 1px solid var(--fitness-line);
+  border-radius: 999px;
+  color: var(--fitness-ink-muted);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+
+.exerciseMedia {
+  width: 100%;
+  max-height: 280px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid var(--fitness-line);
+}
+
+.setRow {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr) minmax(0, 0.75fr) 88px;
+  gap: 10px;
+  align-items: end;
+}
+
+.cardioGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.tableWrap {
+  overflow-x: auto;
+}
+
+.jsonPreview {
+  max-height: 60vh;
+  overflow: auto;
+  margin: 0;
+  padding: 16px;
+  border: 1px solid var(--fitness-line);
+  border-radius: 12px;
+  background: light-dark(oklch(0.96 0 0), oklch(0.18 0 0));
+  color: light-dark(oklch(0.22 0 0), oklch(0.94 0 0));
+  font-size: 0.8125rem;
+  line-height: 1.45;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 620px) {
+  .appFrame {
+    padding-inline: 12px;
+  }
+
+  .readinessGrid,
+  .cardioGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .setRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .setRow > :first-child {
+    grid-column: 1 / -1;
+  }
+}

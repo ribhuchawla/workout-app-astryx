@@ -1,0 +1,2168 @@
+{
+  "2026-06-22": {
+    "date": "2026-06-22",
+    "focus": "Shoulders",
+    "exercises": [
+      {
+        "id": "bent-over-dumbbell-reverse-fly-1",
+        "order": 1,
+        "name": "Bent-over Dumbbell Reverse Fly",
+        "targetSets": 1,
+        "targetReps": 30,
+        "targetWeightKg": 4.5,
+        "media": {
+          "videoUrl": "https://www.youtube.com/watch?v=EA7u4Q_8HQ0"
+        },
+        "agentNote": "Swap for unavailable reverse pec deck; 5 lb/hand, high-rep rear-delt baseline."
+      },
+      {
+        "id": "face-pulls-cable-rear-delt-2",
+        "order": 2,
+        "name": "Face Pulls / Cable Rear Delt",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0Po47vvj9g4"
+        },
+        "agentNote": "First face-pull baseline: 25 kg then 30 kg x 2. Build only if elbows stay high."
+      },
+      {
+        "id": "dumbbell-lateral-raises-3",
+        "order": 3,
+        "name": "Dumbbell Lateral Raises",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 13.6,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lateral-raise-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lateral-raise-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+        },
+        "agentNote": "15 lb/hand at Hyatt; effective load shown as both dumbbells."
+      },
+      {
+        "id": "dumbbell-front-raises-4",
+        "order": 4,
+        "name": "Dumbbell Front Raises",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 13.6,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/front-raise-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/front-raise-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CH9JzDStL3U"
+        },
+        "agentNote": "10-15 lb/hand ramp because shoulder press was skipped for time."
+      },
+      {
+        "id": "dumbbell-shrugs-5",
+        "order": 5,
+        "name": "Dumbbell Shrugs",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 31.8,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shrug-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shrug-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cJRVVxmytaM"
+        },
+        "agentNote": "35 lb/hand top sets plus a lighter drop set; effective load shown as both dumbbells."
+      }
+    ],
+    "readiness": {
+      "sleepHours": 6.2,
+      "doseDay": 1,
+      "doseDayTotal": 7,
+      "readiness": "good",
+      "proteinGrams": 113,
+      "proteinTargetGrams": 120
+    },
+    "metrics": {
+      "startedAt": "2026-06-22T08:55:00+05:30",
+      "endedAt": "2026-06-22T09:32:00+05:30",
+      "avgHeartRate": 123,
+      "maxHeartRate": 150,
+      "activeCalories": 240,
+      "effort": "moderate"
+    }
+  },
+  "2026-06-23": {
+    "date": "2026-06-23",
+    "focus": "Back & biceps",
+    "exercises": [
+      {
+        "id": "barbell-bent-over-row-1",
+        "order": 1,
+        "name": "Barbell Bent-over Row",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 19,
+        "agentNote": "9 kg rod + 10 kg plates; no media added yet."
+      },
+      {
+        "id": "lat-pulldown-2",
+        "order": 2,
+        "name": "Lat Pulldown",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 35,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JGeRYIZdojU"
+        },
+        "agentNote": "30 kg warm-up, then 35 kg working sets."
+      },
+      {
+        "id": "reverse-pec-deck-3",
+        "order": 3,
+        "name": "Reverse Pec Deck",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=v0rJuhEa59c"
+        },
+        "agentNote": "25 kg then 30 kg x 2; rear delts were fully covered."
+      },
+      {
+        "id": "dumbbell-curls-4",
+        "order": 4,
+        "name": "Dumbbell Curls",
+        "targetSets": 3,
+        "targetReps": 12,
+        "targetWeightKg": 20,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+        },
+        "agentNote": "10 kg/hand; effective load shown as both dumbbells."
+      }
+    ],
+    "readiness": {
+      "sleepHours": 5.8,
+      "proteinGramsUnderTarget": 20,
+      "doseDay": 2,
+      "doseDayTotal": 7,
+      "readiness": "fair"
+    },
+    "metrics": {
+      "startedAt": "2026-06-23T08:44:00+05:30",
+      "endedAt": "2026-06-23T09:39:24+05:30",
+      "avgHeartRate": 128,
+      "maxHeartRate": 165,
+      "activeCalories": 429,
+      "effort": "high"
+    }
+  },
+  "2026-06-24": {
+    "date": "2026-06-24",
+    "focus": "Chest - low-sleep deload",
+    "exercises": [
+      {
+        "id": "machine-chest-press-1",
+        "order": 1,
+        "name": "Machine Chest Press",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sqNwDkUU_Ps"
+        },
+        "agentNote": "Deload plan became full volume: 20 kg then 30 kg x 2."
+      },
+      {
+        "id": "smith-incline-bar-press-2",
+        "order": 2,
+        "name": "Smith Incline Bar Press",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/incline-machine-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/incline-machine-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=b8DqTO6ak0k"
+        },
+        "agentNote": "25 kg total; kept no extra triceps/cardio because sleep was 4h22m."
+      },
+      {
+        "id": "decline-dumbbell-press-3",
+        "order": 3,
+        "name": "Decline Dumbbell Press",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/decline-db-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/decline-db-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0xRvl4Qv3ZY"
+        },
+        "agentNote": "7.5 kg/hand; effective load shown as both dumbbells."
+      },
+      {
+        "id": "pec-deck-fly-4",
+        "order": 4,
+        "name": "Pec Deck Fly",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/pec-deck-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/pec-deck-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eGjt4lk6g34"
+        },
+        "agentNote": "25 kg x 15 x 3; no extra work after this Day-3 session."
+      }
+    ],
+    "readiness": {
+      "sleepHours": 4.4,
+      "proteinGramsUnderTarget": 25,
+      "doseDay": 3,
+      "doseDayTotal": 7,
+      "readiness": "low"
+    },
+    "metrics": {
+      "startedAt": "2026-06-24T09:05:00+05:30",
+      "endedAt": "2026-06-24T09:49:42+05:30",
+      "avgHeartRate": 118,
+      "maxHeartRate": 160,
+      "activeCalories": 308,
+      "effort": "moderate"
+    }
+  },
+  "2026-06-25": {
+    "date": "2026-06-25",
+    "focus": "Legs - controlled",
+    "exercises": [
+      {
+        "id": "goblet-squat-1",
+        "order": 1,
+        "name": "Goblet Squat",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "agentNote": "Controlled legs after high-volume chest day."
+      },
+      {
+        "id": "dumbbell-lunges-2",
+        "order": 2,
+        "name": "Dumbbell Lunges",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 10,
+        "agentNote": "5 kg/hand; reps were total, not per leg."
+      },
+      {
+        "id": "leg-curl-3",
+        "order": 3,
+        "name": "Leg Curl",
+        "targetSets": 4,
+        "targetReps": 15,
+        "targetWeightKg": 35,
+        "agentNote": "Ramp included 25, 30, 30 x 5, then 35 kg x 15."
+      },
+      {
+        "id": "calf-raises-4",
+        "order": 4,
+        "name": "Calf Raises",
+        "targetSets": 3,
+        "targetReps": 20,
+        "targetWeightKg": 0,
+        "agentNote": "Bodyweight calf raises; external load not counted."
+      }
+    ],
+    "readiness": {
+      "sleepHours": 5.5,
+      "proteinGramsUnderTarget": 10,
+      "doseDay": 4,
+      "doseDayTotal": 7,
+      "readiness": "fair"
+    },
+    "metrics": {
+      "startedAt": "2026-06-25T09:01:00+05:30",
+      "endedAt": "2026-06-25T09:46:30+05:30",
+      "avgHeartRate": 138,
+      "maxHeartRate": 172,
+      "activeCalories": 433,
+      "effort": "high"
+    }
+  },
+  "2026-06-26": {
+    "date": "2026-06-26",
+    "focus": "Recovery day",
+    "exercises": [],
+    "readiness": {
+      "sleepHours": 6,
+      "proteinGramsUnderTarget": 25,
+      "doseDay": 5,
+      "doseDayTotal": 7,
+      "readiness": "fair"
+    }
+  },
+  "2026-06-27": {
+    "date": "2026-06-27",
+    "focus": "Long walk / recovery",
+    "exercises": [],
+    "readiness": {
+      "sleepHours": 6,
+      "doseDay": 6,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 104,
+      "proteinTargetGrams": 120
+    }
+  },
+  "2026-06-28": {
+    "date": "2026-06-28",
+    "focus": "Recovery / shot-night prep",
+    "exercises": [],
+    "readiness": {
+      "sleepHours": 6.1,
+      "doseDay": 7,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 118,
+      "proteinTargetGrams": 120
+    }
+  },
+  "2026-06-29": {
+    "date": "2026-06-29",
+    "focus": "Recovery pull - details incomplete",
+    "exercises": [
+      {
+        "id": "lat-pulldown-1",
+        "order": 1,
+        "name": "Lat Pulldown",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 35,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JGeRYIZdojU"
+        }
+      },
+      {
+        "id": "seated-chest-supported-row-2",
+        "order": 2,
+        "name": "Seated / Chest-Supported Row",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FU6YQawma2Q"
+        },
+        "agentNote": "Planned recovery row pattern; exact set detail unavailable."
+      },
+      {
+        "id": "reverse-pec-deck-3",
+        "order": 3,
+        "name": "Reverse Pec Deck",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=v0rJuhEa59c"
+        },
+        "agentNote": "Planned rear-delt work; exact set detail unavailable."
+      },
+      {
+        "id": "dumbbell-curls-4",
+        "order": 4,
+        "name": "Dumbbell Curls",
+        "targetSets": 2,
+        "targetReps": 12,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+        },
+        "agentNote": "Optional curls from the recovery plan; exact set detail unavailable."
+      }
+    ],
+    "readiness": {
+      "sleepHours": 6,
+      "proteinGramsUnderTarget": 10,
+      "doseDay": 1,
+      "doseDayTotal": 7,
+      "readiness": "fair"
+    },
+    "metrics": {
+      "startedAt": "2026-06-29T08:45:00+05:30",
+      "endedAt": "2026-06-29T09:25:00+05:30",
+      "avgHeartRate": 124,
+      "maxHeartRate": 155,
+      "activeCalories": 300,
+      "effort": "moderate"
+    }
+  },
+  "2026-06-30": {
+    "date": "2026-06-30",
+    "focus": "Shoulders",
+    "exercises": [
+      {
+        "id": "dumbbell-shoulder-press-1",
+        "order": 1,
+        "name": "Dumbbell Shoulder Press",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 20,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shoulder-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shoulder-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+        },
+        "agentNote": "7.5 kg/hand then 10 kg/hand x 2; final reps were a grind.",
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 20,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "dumbbell-lateral-raises-2",
+        "order": 2,
+        "name": "Dumbbell Lateral Raises",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lateral-raise-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lateral-raise-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+        },
+        "agentNote": "5 kg/hand x 2 then 7.5 kg/hand fatigue set; range shortened late.",
+        "actualSets": [
+          {
+            "weightKg": 10,
+            "reps": 15
+          },
+          {
+            "weightKg": 10,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "dumbbell-shrugs-3",
+        "order": 3,
+        "name": "Dumbbell Shrugs",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shrug-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shrug-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cJRVVxmytaM"
+        },
+        "agentNote": "Load basis was ambiguous in the live log; this keeps the conservative effective-load display.",
+        "actualSets": [
+          {
+            "weightKg": 7.5,
+            "reps": 10
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "face-pulls-cable-rear-delt-4",
+        "order": 4,
+        "name": "Face Pulls / Cable Rear Delt",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 20,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0Po47vvj9g4"
+        },
+        "agentNote": "20 kg was hard; hold here until 2 x 15 is clean.",
+        "actualSets": [
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 20,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "id": "reverse-pec-deck-5",
+        "order": 5,
+        "name": "Reverse Pec Deck",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 20,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=v0rJuhEa59c"
+        },
+        "agentNote": "Light rear-delt polish after face pulls; stop point for the session.",
+        "actualSets": [
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 20,
+            "reps": 15
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 4.7,
+      "proteinGramsUnderTarget": 0,
+      "doseDay": 2,
+      "doseDayTotal": 7,
+      "readiness": "good"
+    }
+  },
+  "2026-07-01": {
+    "date": "2026-07-01",
+    "focus": "Rest / recovery walk",
+    "exercises": [],
+    "readiness": {
+      "sleepHours": 6.7,
+      "doseDay": 3,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 105,
+      "proteinTargetGrams": 120
+    }
+  },
+  "2026-07-02": {
+    "date": "2026-07-02",
+    "focus": "Chest",
+    "exercises": [
+      {
+        "id": "machine-chest-press-1",
+        "order": 1,
+        "name": "Machine Chest Press",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sqNwDkUU_Ps"
+        },
+        "agentNote": "20 kg warm-up then 30 kg x 2; final 5 reps hard.",
+        "lastPerformance": {
+          "date": "2026-06-24",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "incline-dumbbell-press-2",
+        "order": 2,
+        "name": "Incline Dumbbell Press",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/incline-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/incline-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=b8DqTO6ak0k"
+        },
+        "agentNote": "Swapped from Smith incline; 7.5 kg/hand then 10 kg/hand x 2, bench angle corrected lower.",
+        "swappedFrom": "Smith Incline Bar Press",
+        "lastPerformance": {
+          "date": "2026-06-24",
+          "weightKg": 25,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 20,
+            "reps": 12
+          },
+          {
+            "weightKg": 20,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "id": "decline-dumbbell-press-3",
+        "order": 3,
+        "name": "Decline Dumbbell Press",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/decline-db-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/decline-db-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0xRvl4Qv3ZY"
+        },
+        "agentNote": "Reduced dose after machine press plus shoulder-heavy incline.",
+        "lastPerformance": {
+          "date": "2026-06-24",
+          "weightKg": 15,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "pec-deck-fly-4",
+        "order": 4,
+        "name": "Pec Deck Fly",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/pec-deck-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/pec-deck-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eGjt4lk6g34"
+        },
+        "agentNote": "Strong finish: 30 kg then 35 kg x 2; stop here, no triceps.",
+        "lastPerformance": {
+          "date": "2026-06-24",
+          "weightKg": 25,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 5.1,
+      "proteinGramsUnderTarget": 0,
+      "doseDay": 4,
+      "doseDayTotal": 7,
+      "readiness": "good"
+    },
+    "metrics": {
+      "startedAt": "2026-07-02T09:09:00+05:30",
+      "endedAt": "2026-07-02T10:04:24+05:30",
+      "avgHeartRate": 123,
+      "maxHeartRate": 149,
+      "activeCalories": 377,
+      "effort": "moderate"
+    }
+  },
+  "2026-07-03": {
+    "date": "2026-07-03",
+    "focus": "Back / pull maintenance",
+    "exercises": [
+      {
+        "id": "lat-pulldown-1",
+        "order": 1,
+        "name": "Lat Pulldown",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 35,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JGeRYIZdojU"
+        },
+        "agentNote": "Matched Jun 23 pulldown baseline exactly.",
+        "lastPerformance": {
+          "date": "2026-06-29",
+          "weightKg": 35,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "seated-chest-supported-row-2",
+        "order": 2,
+        "name": "Seated / Chest-Supported Row",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FU6YQawma2Q"
+        },
+        "agentNote": "Conservative row pattern after Jul 2 chest.",
+        "lastPerformance": {
+          "date": "2026-06-29",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 25,
+            "reps": 15
+          },
+          {
+            "weightKg": 25,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "dumbbell-curls-3",
+        "order": 3,
+        "name": "Dumbbell Curls",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+        },
+        "agentNote": "7.5 kg/hand for 15 then 12; lower-dose arm finish.",
+        "lastPerformance": {
+          "date": "2026-06-29",
+          "weightKg": 15,
+          "reps": 12,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "id": "reverse-pec-deck-4",
+        "order": 4,
+        "name": "Reverse Pec Deck",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=v0rJuhEa59c"
+        },
+        "agentNote": "Optional rear-delt finish, controlled at two sets.",
+        "lastPerformance": {
+          "date": "2026-06-29",
+          "weightKg": 25,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 25,
+            "reps": 15
+          },
+          {
+            "weightKg": 25,
+            "reps": 15
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 8.9,
+      "doseDay": 5,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 122,
+      "proteinTargetGrams": 120
+    },
+    "metrics": {
+      "startedAt": "2026-07-03T09:16:00+05:30",
+      "endedAt": "2026-07-03T09:50:48+05:30",
+      "avgHeartRate": 123,
+      "maxHeartRate": 159,
+      "activeCalories": 265,
+      "effort": "moderate"
+    }
+  },
+  "2026-07-04": {
+    "date": "2026-07-04",
+    "focus": "Recovery day",
+    "exercises": [],
+    "readiness": {
+      "sleepHours": 7.5,
+      "proteinGramsUnderTarget": 25,
+      "doseDay": 6,
+      "doseDayTotal": 7,
+      "readiness": "low"
+    }
+  },
+  "2026-07-05": {
+    "date": "2026-07-05",
+    "focus": "Swim / recovery",
+    "exercises": [
+      {
+        "id": "swim-1",
+        "order": 1,
+        "name": "Swim",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 17,
+        "agentNote": "Recovery swim synced from Health; keep Sunday easy before routine night.",
+        "actualCardio": {
+          "durationMin": 17,
+          "distanceKm": 0.172
+        }
+      }
+    ],
+    "readiness": {
+      "sleepHours": 11.7,
+      "doseDay": 7,
+      "doseDayTotal": 7,
+      "readiness": "good",
+      "proteinGrams": 105,
+      "proteinTargetGrams": 150
+    },
+    "metrics": {
+      "startedAt": "2026-07-05T10:06:00+05:30",
+      "endedAt": "2026-07-05T10:23:00+05:30",
+      "avgHeartRate": 113,
+      "maxHeartRate": 135,
+      "activeCalories": 58,
+      "effort": "low"
+    }
+  },
+  "2026-07-06": {
+    "date": "2026-07-06",
+    "focus": "Shoulders - controlled",
+    "exercises": [
+      {
+        "id": "plate-loaded-shoulder-press-1",
+        "order": 1,
+        "name": "Plate-Loaded Shoulder Press",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 20,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shoulder-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shoulder-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+        },
+        "agentNote": "10 kg/side x 15 x 3; effective load shown as both sides.",
+        "lastPerformance": {
+          "date": "2026-06-30",
+          "weightKg": 20,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 20,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "dumbbell-lateral-raises-2",
+        "order": 2,
+        "name": "Dumbbell Lateral Raises",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 10,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lateral-raise-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lateral-raise-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+        },
+        "agentNote": "Matched Jun 30 load pattern; 7.5 kg/hand set is overload until ROM is clean.",
+        "lastPerformance": {
+          "date": "2026-06-30",
+          "weightKg": 15,
+          "reps": 15,
+          "sets": 1
+        },
+        "actualSets": [
+          {
+            "weightKg": 10,
+            "reps": 15
+          },
+          {
+            "weightKg": 10,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "dumbbell-shrugs-3",
+        "order": 3,
+        "name": "Dumbbell Shrugs",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shrug-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/shrug-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cJRVVxmytaM"
+        },
+        "agentNote": "15 kg/hand x 15 x 3; correction from user that it was three sets.",
+        "lastPerformance": {
+          "date": "2026-06-30",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "rope-triceps-pushdown-4",
+        "order": 4,
+        "name": "Rope Triceps Pushdown",
+        "targetSets": 1,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rope-pushdown-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rope-pushdown-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vB5OHsJ3EME"
+        },
+        "agentNote": "One light set only; not a triceps day.",
+        "lastPerformance": {
+          "date": "2026-06-24",
+          "weightKg": 0,
+          "reps": 0,
+          "sets": 0
+        },
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 6,
+      "proteinGramsUnderTarget": 10,
+      "doseDay": 1,
+      "doseDayTotal": 7,
+      "readiness": "fair"
+    },
+    "metrics": {
+      "startedAt": "2026-07-06T09:26:40+05:30",
+      "endedAt": "2026-07-06T09:57:52+05:30",
+      "avgHeartRate": 99,
+      "maxHeartRate": 130,
+      "activeCalories": 160,
+      "effort": "moderate"
+    }
+  },
+  "2026-07-07": {
+    "date": "2026-07-07",
+    "focus": "Legs - controlled",
+    "exercises": [
+      {
+        "id": "treadmill-warm-up-1",
+        "order": 1,
+        "name": "Treadmill Warm-up",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 10,
+        "targetDistanceKm": 0.58,
+        "targetLevel": 2,
+        "levelLabel": "Effort",
+        "agentNote": "Easy Zone 2 walk; not counted as strength volume.",
+        "actualCardio": {
+          "durationMin": 10,
+          "distanceKm": 0,
+          "level": 2
+        }
+      },
+      {
+        "id": "goblet-squat-2",
+        "order": 2,
+        "name": "Goblet Squat",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "agentNote": "Matched Jun 25 exactly.",
+        "lastPerformance": {
+          "date": "2026-06-25",
+          "weightKg": 15,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "step-ups-3",
+        "order": 3,
+        "name": "Step-Ups",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 20,
+        "agentNote": "15 reps/side; effective load includes both dumbbells and both legs. Set 2 exceeded the plan.",
+        "swappedFrom": "Dumbbell Lunges",
+        "lastPerformance": {
+          "date": "2026-06-25",
+          "weightKg": 10,
+          "reps": 15,
+          "sets": 3
+        },
+        "actualSets": [
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "leg-curl-4",
+        "order": 4,
+        "name": "Leg Curl",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "agentNote": "Main progression: 30 kg x18, then 35 kg x15 and x17.",
+        "lastPerformance": {
+          "date": "2026-06-25",
+          "weightKg": 35,
+          "reps": 15,
+          "sets": 1
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 18
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 17
+          }
+        ]
+      },
+      {
+        "id": "calf-raises-5",
+        "order": 5,
+        "name": "Calf Raises",
+        "targetSets": 3,
+        "targetReps": 20,
+        "targetWeightKg": 0,
+        "agentNote": "Bodyweight only; no external volume counted.",
+        "actualSets": [
+          {
+            "weightKg": 0,
+            "reps": 20
+          },
+          {
+            "weightKg": 0,
+            "reps": 20
+          },
+          {
+            "weightKg": 0,
+            "reps": 20
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 5.8,
+      "doseDay": 2,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 162,
+      "proteinTargetGrams": 150
+    },
+    "metrics": {
+      "startedAt": "2026-07-07T08:45:00+05:30",
+      "endedAt": "2026-07-07T09:25:42+05:30",
+      "avgHeartRate": 103,
+      "maxHeartRate": 140,
+      "activeCalories": 210,
+      "effort": "moderate"
+    }
+  },
+  "2026-07-08": {
+    "date": "2026-07-08",
+    "focus": "Chest touch + light triceps",
+    "exercises": [
+      {
+        "id": "treadmill-warm-up-1",
+        "order": 1,
+        "name": "Treadmill Warm-up",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 10,
+        "targetDistanceKm": 0.5,
+        "targetLevel": 2,
+        "levelLabel": "Effort",
+        "agentNote": "Easy warm-up before a recovery-first chest touch.",
+        "actualCardio": {
+          "durationMin": 6.5,
+          "distanceKm": 0.5,
+          "level": 2
+        }
+      },
+      {
+        "id": "machine-chest-press-2",
+        "order": 2,
+        "name": "Machine Chest Press",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sqNwDkUU_Ps"
+        },
+        "agentNote": "Same top load as Jul 2 but one fewer 30 kg set.",
+        "lastPerformance": {
+          "date": "2026-07-02",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 20,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "pec-deck-fly-3",
+        "order": 3,
+        "name": "Pec Deck Fly",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/pec-deck-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/pec-deck-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eGjt4lk6g34"
+        },
+        "agentNote": "Almost matched Jul 2, but only one 35 kg set.",
+        "lastPerformance": {
+          "date": "2026-07-02",
+          "weightKg": 35,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 25,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "bar-triceps-pushdown-4",
+        "order": 4,
+        "name": "Bar Triceps Pushdown",
+        "targetSets": 1,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rope-pushdown-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rope-pushdown-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vB5OHsJ3EME"
+        },
+        "agentNote": "Added more direct triceps than planned, but absolute load stayed light.",
+        "lastPerformance": {
+          "date": "2026-07-06",
+          "weightKg": 15,
+          "reps": 15,
+          "sets": 1
+        },
+        "actualSets": [
+          {
+            "weightKg": 12.5,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 6.3,
+      "doseDay": 3,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 141,
+      "proteinTargetGrams": 150
+    },
+    "metrics": {
+      "startedAt": "2026-07-08T09:17:00+05:30",
+      "endedAt": "2026-07-08T09:57:24+05:30",
+      "avgHeartRate": 126,
+      "maxHeartRate": 157,
+      "activeCalories": 328,
+      "effort": "moderate"
+    }
+  },
+  "2026-07-09": {
+    "date": "2026-07-09",
+    "focus": "Back / pull + rear delts",
+    "exercises": [
+      {
+        "id": "lat-pulldown-1",
+        "order": 1,
+        "name": "Lat Pulldown",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 35,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JGeRYIZdojU"
+        },
+        "agentNote": "Slightly lower than Jul 3 because final set was 12 reps.",
+        "lastPerformance": {
+          "date": "2026-07-03",
+          "weightKg": 35,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "id": "chest-supported-row-2",
+        "order": 2,
+        "name": "Chest-Supported Row",
+        "targetSets": 3,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FU6YQawma2Q"
+        },
+        "agentNote": "Row volume progressed from Jul 3 and stayed joint-friendly.",
+        "lastPerformance": {
+          "date": "2026-07-03",
+          "weightKg": 25,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "id": "reverse-pec-deck-3",
+        "order": 3,
+        "name": "Reverse Pec Deck",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/rear-delt-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=v0rJuhEa59c"
+        },
+        "agentNote": "Meaningful rear-delt progression: added third set and 30 kg finish.",
+        "lastPerformance": {
+          "date": "2026-07-03",
+          "weightKg": 25,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 25,
+            "reps": 15
+          },
+          {
+            "weightKg": 25,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "dumbbell-curls-4",
+        "order": 4,
+        "name": "Dumbbell Curls",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+        },
+        "agentNote": "Added 3 reps versus Jul 3 while keeping 7.5 kg/hand.",
+        "lastPerformance": {
+          "date": "2026-07-03",
+          "weightKg": 15,
+          "reps": 12,
+          "sets": 1
+        },
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 5.4,
+      "doseDay": 4,
+      "doseDayTotal": 7,
+      "readiness": "good",
+      "proteinGrams": 179,
+      "proteinTargetGrams": 150
+    },
+    "metrics": {
+      "startedAt": "2026-07-09T09:00:00+05:30",
+      "endedAt": "2026-07-09T09:37:36+05:30",
+      "avgHeartRate": 139,
+      "maxHeartRate": 167,
+      "activeCalories": 351,
+      "effort": "high"
+    }
+  },
+  "2026-07-10": {
+    "date": "2026-07-10",
+    "focus": "Recovery / walk",
+    "exercises": [
+      {
+        "id": "easy-walk-1",
+        "order": 1,
+        "name": "Easy Walk",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 30,
+        "targetDistanceKm": 1.5,
+        "agentNote": "Walk-only recovery after four straight gym days and a high-calorie social night.",
+        "lastPerformance": {
+          "date": "2026-07-03",
+          "durationMin": 17,
+          "distanceKm": 1.23
+        },
+        "actualCardio": {
+          "durationMin": 29.2,
+          "distanceKm": 1.51
+        }
+      }
+    ],
+    "readiness": {
+      "sleepHours": 5.2,
+      "doseDay": 5,
+      "doseDayTotal": 7,
+      "readiness": "low",
+      "proteinGrams": 158,
+      "proteinTargetGrams": 150
+    },
+    "metrics": {
+      "startedAt": "2026-07-10T21:01:00+05:30",
+      "endedAt": "2026-07-10T21:30:12+05:30",
+      "avgHeartRate": 106,
+      "maxHeartRate": 130,
+      "activeCalories": 127,
+      "effort": "low"
+    }
+  },
+  "2026-07-11": {
+    "date": "2026-07-11",
+    "focus": "Recovery day",
+    "exercises": [],
+    "readiness": {
+      "sleepHours": 7.3,
+      "doseDay": 6,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 156,
+      "proteinTargetGrams": 150
+    }
+  },
+  "2026-07-12": {
+    "date": "2026-07-12",
+    "focus": "Swim + walk / routine-night prep",
+    "exercises": [
+      {
+        "id": "swim-1",
+        "order": 1,
+        "name": "Swim",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 25,
+        "agentNote": "Light swim before Sunday routine night; no lifting.",
+        "actualCardio": {
+          "durationMin": 25,
+          "distanceKm": 0
+        }
+      },
+      {
+        "id": "evening-walk-2",
+        "order": 2,
+        "name": "Evening Walk",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 27,
+        "targetDistanceKm": 0.98,
+        "agentNote": "Easy movement after a lower-protein day; no extra food push late.",
+        "actualCardio": {
+          "durationMin": 26.9,
+          "distanceKm": 0.98
+        }
+      }
+    ],
+    "readiness": {
+      "sleepHours": 6.1,
+      "doseDay": 7,
+      "doseDayTotal": 7,
+      "readiness": "fair",
+      "proteinGrams": 81,
+      "proteinTargetGrams": 150
+    },
+    "metrics": {
+      "startedAt": "2026-07-12T08:45:00+05:30",
+      "endedAt": "2026-07-12T09:10:00+05:30",
+      "avgHeartRate": 113,
+      "maxHeartRate": 135,
+      "activeCalories": 58,
+      "effort": "low"
+    }
+  },
+  "2026-07-13": {
+    "date": "2026-07-13",
+    "focus": "Back / rear delts / arms - overachieved red-readiness pull day",
+    "exercises": [
+      {
+        "id": "treadmill-warm-up-1",
+        "order": 1,
+        "name": "Treadmill Warm-up",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 8,
+        "targetDistanceKm": 0.45,
+        "targetLevel": 2,
+        "levelLabel": "Effort",
+        "agentNote": "Warm-up walk before deciding if the red-readiness lift was still okay.",
+        "actualCardio": {
+          "durationMin": 8,
+          "distanceKm": 0.45,
+          "level": 2
+        }
+      },
+      {
+        "id": "lat-pulldown-2",
+        "order": 2,
+        "name": "Lat Pulldown",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 35,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/lat-pulldown-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JGeRYIZdojU"
+        },
+        "agentNote": "Actual: 30 kg then 40 kg x 2. Strong progression, but above the red-day cap.",
+        "lastPerformance": {
+          "date": "2026-07-09",
+          "weightKg": 35,
+          "reps": 12,
+          "sets": 1
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 40,
+            "reps": 15
+          },
+          {
+            "weightKg": 40,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "chest-supported-row-3",
+        "order": 3,
+        "name": "Chest-Supported Row",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/chest-row-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FU6YQawma2Q"
+        },
+        "agentNote": "Actual row was 40-60 lb; converted to kg effective machine load.",
+        "lastPerformance": {
+          "date": "2026-07-09",
+          "weightKg": 30,
+          "reps": 12,
+          "sets": 1
+        },
+        "actualSets": [
+          {
+            "weightKg": 18.1,
+            "reps": 15
+          },
+          {
+            "weightKg": 27.2,
+            "reps": 12
+          },
+          {
+            "weightKg": 27.2,
+            "reps": 12
+          }
+        ]
+      },
+      {
+        "id": "face-pulls-cable-rear-delt-4",
+        "order": 4,
+        "name": "Face Pulls / Cable Rear Delt",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0Po47vvj9g4"
+        },
+        "agentNote": "30, 35, 40 kg ramp. Good posture stimulus, too much for a red cap.",
+        "lastPerformance": {
+          "date": "2026-07-09",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 1
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 35,
+            "reps": 15
+          },
+          {
+            "weightKg": 40,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "dumbbell-curls-5",
+        "order": 5,
+        "name": "Dumbbell Curls",
+        "targetSets": 2,
+        "targetReps": 12,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/curl-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+        },
+        "agentNote": "30-40 lb/hand; effective load shown as both dumbbells after lb->kg conversion.",
+        "lastPerformance": {
+          "date": "2026-07-09",
+          "weightKg": 15,
+          "reps": 15,
+          "sets": 2
+        },
+        "actualSets": [
+          {
+            "weightKg": 27.2,
+            "reps": 12
+          },
+          {
+            "weightKg": 36.3,
+            "reps": 12
+          },
+          {
+            "weightKg": 27.2,
+            "reps": 12
+          }
+        ]
+      }
+    ],
+    "readiness": {
+      "sleepHours": 5.9,
+      "doseDay": 1,
+      "doseDayTotal": 7,
+      "readiness": "low",
+      "proteinGrams": 165,
+      "proteinTargetGrams": 150
+    },
+    "metrics": {
+      "startedAt": "2026-07-13T08:56:00+05:30",
+      "endedAt": "2026-07-13T09:29:30+05:30",
+      "avgHeartRate": 134,
+      "maxHeartRate": 162,
+      "activeCalories": 292,
+      "effort": "high"
+    }
+  },
+  "2026-07-14": {
+    "date": "2026-07-14",
+    "focus": "Legs - return-to-training cap",
+    "exercises": [
+      {
+        "id": "treadmill-warm-up-1",
+        "order": 1,
+        "name": "Treadmill Warm-up",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 8,
+        "targetDistanceKm": 0.45,
+        "targetLevel": 2,
+        "levelLabel": "Effort",
+        "agentNote": "Fever cleared, throat still a bit itchy. Completed as the warm-up: incline 10-13, speed 3-3.3.",
+        "actualCardio": {
+          "durationMin": 8,
+          "distanceKm": 0.5,
+          "level": 2
+        }
+      },
+      {
+        "id": "goblet-squat-2",
+        "order": 2,
+        "name": "Goblet Squat",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "agentNote": "Return cap after sick day. Two clean sets only; no third set chase.",
+        "lastPerformance": {
+          "date": "2026-07-07",
+          "weightKg": 15,
+          "reps": 15,
+          "sets": 3
+        },
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/goblet-squat-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/goblet-squat-finish.jpg"
+        },
+        "actualSets": [
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          },
+          {
+            "weightKg": 15,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "leg-curl-3",
+        "order": 3,
+        "name": "Leg Curl",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "agentNote": "Back off from the Jul 7 35 kg top sets. If 30 kg feels heavy, stay there and stop at 2 sets.",
+        "lastPerformance": {
+          "date": "2026-07-07",
+          "weightKg": 35,
+          "reps": 17,
+          "sets": 1
+        },
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/leg-curl-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/leg-curl-finish.jpg"
+        },
+        "actualSets": [
+          {
+            "weightKg": 30,
+            "reps": 15
+          },
+          {
+            "weightKg": 30,
+            "reps": 15
+          }
+        ]
+      },
+      {
+        "id": "step-ups-4",
+        "order": 4,
+        "name": "Walking Lunge",
+        "targetSets": 2,
+        "targetReps": 20,
+        "targetWeightKg": 10,
+        "agentNote": "Swapped from Step-Ups mid-session. Reps are total steps split between both legs, not per-side reps.",
+        "swappedFrom": "Step-Ups",
+        "lastPerformance": {
+          "date": "2026-07-07",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 1
+        },
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/step-ups-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/step-ups-finish.jpg"
+        },
+        "actualSets": [
+          {
+            "weightKg": 27.2,
+            "reps": 11
+          },
+          {
+            "weightKg": 27.2,
+            "reps": 15
+          },
+          {
+            "weightKg": 18.2,
+            "reps": 13
+          },
+          {
+            "weightKg": 18.2,
+            "reps": 14
+          }
+        ]
+      },
+      {
+        "id": "calf-raises-5",
+        "order": 5,
+        "name": "Calf Raises",
+        "targetSets": 2,
+        "targetReps": 20,
+        "targetWeightKg": 0,
+        "agentNote": "Bodyweight only; skip if legs feel wobbly after step-ups.",
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/calf-raises-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/calf-raises-finish.jpg"
+        },
+        "actualSets": [
+          {
+            "weightKg": 0,
+            "reps": 20
+          },
+          {
+            "weightKg": 0,
+            "reps": 20
+          }
+        ]
+      }
+    ],
+    "metrics": {
+      "startedAt": "2026-07-14T09:12:00+05:30",
+      "endedAt": "2026-07-14T09:58:00+05:30",
+      "avgHeartRate": 135,
+      "maxHeartRate": 169,
+      "activeCalories": 425,
+      "effort": "moderate"
+    }
+  },
+  "2026-07-15": {
+    "date": "2026-07-15",
+    "focus": "Recovery - legs done Jul 14, easy day",
+    "exercises": [
+      {
+        "id": "treadmill-warm-up-1",
+        "order": 1,
+        "name": "Treadmill Warm-up",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 8,
+        "targetDistanceKm": 0.45,
+        "targetLevel": 2,
+        "levelLabel": "Effort",
+        "agentNote": "If symptoms are still active, make this the whole session and skip lifting."
+      },
+      {
+        "id": "goblet-squat-2",
+        "order": 2,
+        "name": "Goblet Squat",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 15,
+        "agentNote": "Return cap after sick day and Jul 13 pull overshot. Two clean sets only; no third set chase.",
+        "lastPerformance": {
+          "date": "2026-07-07",
+          "weightKg": 15,
+          "reps": 15,
+          "sets": 3
+        },
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/goblet-squat-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/goblet-squat-finish.jpg"
+        }
+      },
+      {
+        "id": "leg-curl-3",
+        "order": 3,
+        "name": "Leg Curl",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "agentNote": "Back off from the Jul 7 35 kg top sets. If 30 kg feels heavy, stay there and stop at 2 sets.",
+        "lastPerformance": {
+          "date": "2026-07-07",
+          "weightKg": 35,
+          "reps": 17,
+          "sets": 1
+        },
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/leg-curl-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/leg-curl-finish.jpg"
+        }
+      },
+      {
+        "id": "step-ups-4",
+        "order": 4,
+        "name": "Step-Ups",
+        "targetSets": 2,
+        "targetReps": 20,
+        "targetWeightKg": 10,
+        "agentNote": "10 per side with about 10-12 lb/hand, or bodyweight if throat/head still feel off. Keep it cleaner and lower than Jul 7.",
+        "lastPerformance": {
+          "date": "2026-07-07",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 1
+        },
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/step-ups-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/step-ups-finish.jpg"
+        }
+      },
+      {
+        "id": "calf-raises-5",
+        "order": 5,
+        "name": "Calf Raises",
+        "targetSets": 2,
+        "targetReps": 20,
+        "targetWeightKg": 0,
+        "agentNote": "Bodyweight only; skip if legs feel wobbly after step-ups.",
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/calf-raises-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/calf-raises-finish.jpg"
+        }
+      }
+    ]
+  },
+  "2026-07-16": {
+    "date": "2026-07-16",
+    "focus": "Chest priority - controlled return",
+    "exercises": [
+      {
+        "id": "machine-chest-press-1",
+        "order": 1,
+        "name": "Machine Chest Press",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/machine-chest-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sqNwDkUU_Ps"
+        },
+        "agentNote": "Chest stays prioritized, but this is not a PR day after illness. Stop if final reps grind.",
+        "lastPerformance": {
+          "date": "2026-07-08",
+          "weightKg": 30,
+          "reps": 15,
+          "sets": 1
+        }
+      },
+      {
+        "id": "cable-fly-2",
+        "order": 2,
+        "name": "Cable Fly",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 30,
+        "swappedFrom": "Pec Deck Fly",
+        "agentNote": "Hyatt has no standalone pec deck, so use the Aerofit cable crossover. Closest prior fly was Jul 8 pec deck at 35 kg.",
+        "lastPerformance": {
+          "date": "2026-07-08",
+          "weightKg": 35,
+          "reps": 15,
+          "sets": 1
+        }
+      },
+      {
+        "id": "incline-dumbbell-press-3",
+        "order": 3,
+        "name": "Incline Dumbbell Press",
+        "targetSets": 2,
+        "targetReps": 12,
+        "targetWeightKg": 15,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/incline-press-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/incline-press-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=b8DqTO6ak0k"
+        },
+        "agentNote": "Optional third movement only if chest press and fly were easy. Low incline, not steep.",
+        "lastPerformance": {
+          "date": "2026-07-02",
+          "weightKg": 20,
+          "reps": 12,
+          "sets": 2
+        }
+      },
+      {
+        "id": "face-pulls-cable-rear-delt-4",
+        "order": 4,
+        "name": "Face Pulls / Cable Rear Delt",
+        "targetSets": 2,
+        "targetReps": 15,
+        "targetWeightKg": 25,
+        "media": {
+          "beforePhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-start.jpg",
+          "afterPhotoUrl": "https://ribhu-workout-app.vercel.app/exercise-media/exercises/face-pull-finish.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0Po47vvj9g4"
+        },
+        "agentNote": "Posture insurance after chest; deliberately below the Jul 13 pull-day top set.",
+        "lastPerformance": {
+          "date": "2026-07-13",
+          "weightKg": 40,
+          "reps": 15,
+          "sets": 1
+        }
+      }
+    ]
+  },
+  "2026-07-17": {
+    "date": "2026-07-17",
+    "focus": "Zone 2 cardio - coach off",
+    "exercises": [
+      {
+        "id": "zone-2-treadmill-1",
+        "order": 1,
+        "name": "Zone 2 Treadmill",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 30,
+        "targetDistanceKm": 2.2,
+        "targetLevel": 2,
+        "levelLabel": "Incline",
+        "agentNote": "No intervals this week unless throat, fever, and sleep are all clean. Keep it conversational."
+      }
+    ]
+  },
+  "2026-07-18": {
+    "date": "2026-07-18",
+    "focus": "Swim or easy cardio",
+    "exercises": [
+      {
+        "id": "swim-zone-2-treadmill-1",
+        "order": 1,
+        "name": "Swim / Zone 2 Treadmill",
+        "kind": "cardio",
+        "targetSets": 0,
+        "targetReps": 0,
+        "targetWeightKg": 0,
+        "targetDurationMin": 30,
+        "targetDistanceKm": 2,
+        "targetLevel": 2,
+        "levelLabel": "Effort",
+        "agentNote": "Enjoyment cardio only. Skip if symptoms linger or sleep debt is still obvious."
+      }
+    ]
+  },
+  "2026-07-19": {
+    "date": "2026-07-19",
+    "focus": "Recovery / routine-night prep",
+    "exercises": []
+  }
+}
